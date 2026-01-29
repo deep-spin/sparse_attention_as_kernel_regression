@@ -1,4 +1,3 @@
-# sparse_attention_as_kernel_regression
 # Sparse Attention as Compact Kernel Regression
 
 Official code for the **Sparse Attention as Compact Kernel Rgression** paper.
@@ -23,3 +22,9 @@ $\alpha = 1 + \frac{1}{n}$ for $n \in \mathbb{N}$, while the softmax/Gaussian re
 ## Resources
 
 - [Paper](to add) (arXiv)
+
+  All material is made available under the MIT license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
+
+## Language Modeling
+### Installation and Reproducibility
+Follow (Memory Mosaics)[https://github.com/facebookresearch/MemoryMosaics] instructions with our code and use the hyparparameters mentioned in the Appendix.
